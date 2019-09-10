@@ -1,0 +1,88 @@
+{
+	"users": [
+		{
+			"name": "Stephanie Horton",
+			"id": 0,
+			"avatarImgPath": "/img/avatar/stephanie-horton.jpg",
+			"role": "USER_ROLE_HOTSEAT",
+			"colorProfile": "1"
+		},
+		{
+			"name": "Shaun Martinez",
+			"id": 1,
+			"avatarImgPath": "/img/avatar/shaun-martinez.jpg",
+			"role": "USER_ROLE_HOTSEAT",
+			"colorProfile": "2"
+		},
+		{
+			"name": "Kerry Hunter",
+			"id": 2,
+			"avatarImgPath": "/img/avatar/kerry-hunter.png",
+			"role": "USER_ROLE_NEWSASSOCIATE",
+			"colorProfile": "3"
+		},
+		{
+			"name": "Lester Stephens",
+			"id": 3,
+			"avatarImgPath": "/img/avatar/lester-stephens.jpg",
+			"role": "USER_ROLE_REPORTER",
+			"colorProfile": "4"
+		},
+		{
+			"name": "Bill Owen",
+			"id": 4,
+			"avatarImgPath": "/img/avatar/bill-owen.jpg",
+			"role": "USER_ROLE_COPYEDITOR",
+			"colorProfile": "5"
+		},
+		{
+			"name": "Lucia Wang",
+			"id": 5,
+			"avatarImgPath": "/img/avatar/lucia-wang.jpg",
+			"role": "USER_ROLE_COPYEDITOR",
+			"colorProfile": "6"
+		},
+		{
+			"name": "Seth Holt",
+			"id": 6,
+			"avatarImgPath": "/img/avatar/seth-holt.jpg",
+			"role": "USER_ROLE_VIDEOPRODUCER",
+			"colorProfile": "7"
+		},
+		{
+			"name": "Taylor Robertson",
+			"id": 7,
+			"avatarImgPath": "/img/avatar/taylor-robertson.jpg",
+			"role": "USER_ROLE_EDITOR",
+			"colorProfile": "8"
+		},
+		{
+			"name": "Ricky Rodriquez",
+			"id": 8,
+			"avatarImgPath": "/img/avatar/ricky-rodriquez.jpg",
+			"role": "USER_ROLE_PHOTODESK",
+			"colorProfile": "9"
+		},
+		{
+			"name": "Courtney Fletcher",
+			"id": 9,
+			"avatarImgPath": "/img/avatar/courtney-fletcher.jpg",
+			"role": "USER_ROLE_PHOTODESK",
+			"colorProfile": "10"
+		},
+		{
+			"name": "Allen Jones",
+			"id": 10,
+			"avatarImgPath": "/img/avatar/allen-jones.png",
+			"role": "USER_ROLE_SITEPRODUCER",
+			"colorProfile": "11"
+		},
+		{
+			"name": "Natalie Vaughn",
+			"id": 11,
+			"avatarImgPath": "/img/avatar/natalie-vaughn.jpg",
+			"role": "USER_ROLE_SOCIAL",
+			"colorProfile": "12"
+		}
+	]
+}
